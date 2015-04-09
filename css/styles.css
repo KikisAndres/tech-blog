@@ -1,0 +1,30 @@
+a {
+  text-decoration: none;
+  color: #fff; }
+
+li {
+  list-style: none;
+  display: inline-block; }
+
+/*
+	========== modules ==========
+*/
+.info-row {
+  width: 640px; }
+
+.tittle-home {
+  font-size: 30px;
+  color: #fff; }
+
+.first-navigator {
+  background-color: #00A0A9;
+  display: inline-block;
+  height: 280px;
+  margin: 0;
+  width: 100%; }
+
+.second-navigator {
+  background-color: #cdcdcd;
+  height: 95px; }
+
+/*# sourceMappingURL=styles.css.map */
