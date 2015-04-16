@@ -3,6 +3,13 @@ a {
 	color: $white;
 }
 
+body {
+	margin: 0 auto;
+	overflow: hidden;
+	padding: 0;
+	width: 1280px;
+}
+
 li {
 	list-style: none;
 	display: inline-block;

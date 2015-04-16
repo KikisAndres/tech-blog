@@ -1,9 +1,17 @@
-.first-navigator {
+.top-navbar {
 	background-color: $menta;
 	display: inline-block;
 	height: 280px;
 	margin: 0;
 	width: 100%
+}
+
+.first-navigator {
+	margin-left: 110px;
+}
+
+.first-navigator {
+	font-size: 16pt;
 }
 
 .second-navigator {

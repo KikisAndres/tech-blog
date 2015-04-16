@@ -1,8 +1,31 @@
-.info-row {
+.info-row-left {
+	background-color: $white; 
+	display: inline-block;
+	margin-left: 110px;
+	margin-top: -100px;
 	width: 640px;
+}
+
+.item-row-right {
+	display: inline-block;
+	vertical-align: top;
+	width: 300px;
+}
+
+.text-content-row {
+	max-height: 1000px;
+	display: inline-block;
 }
 
 .tittle-home {
 	font-size: 30px;
 	color: $white;
 }
+
+.tittle-row-right {
+	color: $menta;
+}
+
+
+
+

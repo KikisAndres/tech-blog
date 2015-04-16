@@ -2,6 +2,12 @@ a {
   text-decoration: none;
   color: #fff; }
 
+body {
+  margin: 0 auto;
+  overflow: hidden;
+  padding: 0;
+  width: 1280px; }
+
 li {
   list-style: none;
   display: inline-block; }
@@ -9,19 +15,41 @@ li {
 /*
 	========== modules ==========
 */
-.info-row {
+.info-row-left {
+  background-color: #fff;
+  display: inline-block;
+  margin-left: 110px;
+  margin-top: -100px;
   width: 640px; }
+
+.item-row-right {
+  display: inline-block;
+  vertical-align: top;
+  width: 300px; }
+
+.text-content-row {
+  max-height: 1000px;
+  display: inline-block; }
 
 .tittle-home {
   font-size: 30px;
   color: #fff; }
 
-.first-navigator {
+.tittle-row-right {
+  color: #00A0A9; }
+
+.top-navbar {
   background-color: #00A0A9;
   display: inline-block;
   height: 280px;
   margin: 0;
   width: 100%; }
+
+.first-navigator {
+  margin-left: 110px; }
+
+.first-navigator {
+  font-size: 16pt; }
 
 .second-navigator {
   background-color: #cdcdcd;
